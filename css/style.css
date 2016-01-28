@@ -5,15 +5,16 @@
 	background-color: red;
 }
 div{
-	height: 100px;
-	width: 400px;
-	font-size:40px;
+	height: 30%;
+	width: 15%;
+	font-size:100%;
+	margin-bottom: 2%;
 }
 .pd15{
-	padding-left: 15px;
+	padding-left: 2%;
 }
 .pdt5{
-	padding-top: 5px;
+	padding-top: 2%;
 }
 .may{
 	text-transform: uppercase;
