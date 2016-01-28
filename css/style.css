@@ -9,7 +9,7 @@ div{
 	width: 15%;
 	font-size:100%;
 	margin-bottom: 2%;
-	display: inline-block;
+	display: inline;
 }
 .pd15{
 	padding-left: 2%;
@@ -19,4 +19,7 @@ div{
 }
 .may{
 	text-transform: uppercase;
+}
+p{
+	display: inline;
 }
